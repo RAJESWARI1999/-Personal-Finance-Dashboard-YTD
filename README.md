@@ -1,4 +1,7 @@
+This Excel-based Personal Finance Dashboard is an interactive and visually engaging tool that helps track and analyze personal spending, income, and budget categories throughout the year. It provides a consolidated year-to-date (YTD) view of financial activity using charts, treemaps, and KPIs, aiding in better money management and decision-making.
+
 💡 Key Features
+
 Year-to-Date Spend Tracking
 Displays total YTD spend broken down by category:
 Living Expenses: $16,400
